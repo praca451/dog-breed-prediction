@@ -55,4 +55,14 @@ pip install -r requirements.txt
 jupyter notebook notebooks/dog_breed_classification.ipynb
 ```
 
+# 📌 Future Improvements
 
+Implementing data augmentation to improve model generalization.
+
+Experimenting with fine-tuning deeper layers of the pre-trained models.
+
+Deploying the trained model using Flask or FastAPI for real-world applications.
+
+# 🏆 Acknowledgments
+
+This project is based on Kaggle’s Dog Breed Identification Dataset and inspired by Deep Learning Specialization courses on Transfer Learning.
