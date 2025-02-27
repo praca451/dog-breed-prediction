@@ -1,2 +1,28 @@
-# dog-breed-prediction
-Dog Breed Classification Using Transfer Learning &amp; TensorFlow
+# 📌 Project Overview
+
+This project applies Transfer Learning using TensorFlow to classify images of 120 different dog breeds based on a dataset of 10,222 images. The goal is to develop an image classification model that accurately identifies the breed of a dog given an image input.
+
+The model utilizes pre-trained deep learning architectures MobileNetV2.
+
+# 📝 Dataset
+
+The dataset consists of 10,222 labeled images of 120 dog breeds.
+
+The images are sourced from the Kaggle Dog Breed Identification dataset.
+
+The dataset is split into training (80%) and validation (20%) sets for model training and evaluation.
+
+# 🎯 Problem Statement
+
+Given an image of a dog, the model predicts one of 120 possible dog breeds. The project applies Transfer Learning to leverage the power of pre-trained deep learning models, reducing training time and improving accuracy.
+
+# 🏆 Model Outputs
+
+Input: Image of a dog.
+
+Output: Predicted breed of the dog with probability scores for each class.
+
+
+
+
+
