@@ -40,11 +40,11 @@ Google Colab & Jupyter Notebook – Model Training & Experimentation
 
 1️⃣ Clone the repository
 
-'''
+```bash
 git clone https://github.com/praca451/dog-breed-prediction.git
 cd dog-breed-classification
 
-'''
+
 
 
 
