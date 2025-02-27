@@ -44,8 +44,15 @@ Google Colab & Jupyter Notebook – Model Training & Experimentation
 git clone https://github.com/praca451/dog-breed-prediction.git
 cd dog-breed-classification
 
+2️⃣ Install dependencies
 
+```bash
+pip install -r requirements.txt
 
+3️⃣ Run the Jupyter Notebook
+
+```bash
+jupyter notebook notebooks/dog_breed_classification.ipynb
 
 
 
