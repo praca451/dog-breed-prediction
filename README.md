@@ -23,6 +23,22 @@ Input: Image of a dog.
 Output: Predicted breed of the dog with probability scores for each class.
 
 
+# 🚀 Technologies Used
+
+TensorFlow & Keras – Deep Learning Framework
+
+Transfer Learning – Pre-trained model (MobileNetV2)
+
+OpenCV & Matplotlib – Image Processing & Visualization
+
+scikit-learn & Pandas – Data Preprocessing
+
+Google Colab & Jupyter Notebook – Model Training & Experimentation
+
+
+# 🚀 How to Run the Project
+
+
 
 
 
